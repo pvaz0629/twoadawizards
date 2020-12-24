@@ -1,6 +1,8 @@
+cat > poolMetaData.json << EOF
 {
 "name": "twoadawizards",
 "description": "My pool description",
 "ticker": "MPN",
-"homepage": "https://primetimerealtor.wixsite.com/twoadawizards
+"homepage": "https://primetimerealtor.wixsite.com/twoadawizards"
 }
+EOF
